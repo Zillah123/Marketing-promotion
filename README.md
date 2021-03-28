@@ -1,1 +1,1 @@
-# Marketing-promotion
+# Marketing-promotion. A marketing promotion project.
